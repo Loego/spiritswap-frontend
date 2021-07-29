@@ -1,0 +1,193 @@
+{
+  "name": "DystopiaSwap Default List",
+  "timestamp": "2021-10-01T23:57:10.982Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "tetu",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x255707B70BF90aa112006E1b07B9AeA6De021424",
+      "name": "TETU Reward Token",
+      "symbol": "TETU",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/17882/small/gradient_icon_926.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    },
+    {
+      "name": "Wrapped Matic",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg"
+    },
+    {
+      "name": "DinoSwap (PoS)",
+      "address": "0xAa9654BECca45B5BDFA5ac646c939C62b527D394",
+      "symbol": "DINO",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dino.jpg"
+    },
+    {
+      "name": "miFARM",
+      "address": "0xab0b2ddB9C7e440fAc8E140A89c0dbCBf2d7Bbff",
+      "symbol": "miFARM",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/14472/small/ifarm.png?1616389133"
+    },
+    {
+      "name": "ICE",
+      "address": "0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef",
+      "symbol": "ICE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://cdn.discordapp.com/attachments/794129085387374592/862637810138087434/5.png"
+    },
+    {
+      "name": "DAI",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+    },
+    {
+      "name": "KLIMA",
+      "address": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+      "symbol": "KLIMA",
+      "decimals": 9,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x4e78011Ce80ee02d2c3e649Fb657E45898257815.jpg"
+    },
+    {
+      "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+      "chainId": 137,
+      "name": "MAI",
+      "symbol": "MAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png"
+    },
+    {
+      "address": "0xdf9b4b57865b403e08c85568442f95c26b7896b0",
+      "chainId": 137,
+      "name": "Sunflower Farm",
+      "symbol": "SFF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22198/small/download.png"
+    },
+    {
+      "address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+      "chainId": 137,
+      "name": "Qi Dao",
+      "symbol": "QI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/qi.jpg"
+    },
+    {
+      "address": "0x4Cd44ced63d9a6FEF595f6AD3F7CED13fCEAc768",
+      "chainId": 137,
+      "name": "Staked Qi",
+      "symbol": "tetuQI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/tetu-io/tetu-brand-assets/master/token_icons/tetuQi.png"
+    },
+    {
+      "address": "0xc46DB78Be28B5F2461097ed9e3Fcc92E9FF8676d",
+      "chainId": 137,
+      "name": "Universe Token",
+      "symbol": "UNT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22676/small/1_hMcINXnC7TdqS0TI8_FLmg.png"
+    },
+    {
+      "address": "0x3066818837c5e6eD6601bd5a91B0762877A6B731",
+      "chainId": 137,
+      "name": "UMA Voting Token",
+      "symbol": "UMA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3066818837c5e6eD6601bd5a91B0762877A6B731/logo.png"
+    },
+    {
+      "address": "0xc250e9987a032acac293d838726c511e6e1c029d",
+      "chainId": 137,
+      "name": "Otter Clam",
+      "symbol": "CLAM",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20670/small/clam.png"
+    },
+    {
+      "address": "0x4cd44ced63d9a6fef595f6ad3f7ced13fceac768",
+      "chainId": 137,
+      "name": "Staked Qi",
+      "symbol": "tetuQi",
+      "decimals": 18,
+      "logoURI": "https://app.tetu.io/static/media/tetuQi.0b0d39ac.svg"
+    },
+    {
+      "address": "0x62f594339830b90ae4c084ae7d223ffafd9658a7",
+      "chainId": 137,
+      "name": "Sphere Finance",
+      "symbol": "SPHERE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24424/small/2iR2JsL.png"
+    },
+    {
+      "address": "0x9008d70a5282a936552593f410abcbce2f891a97",
+      "chainId": 137,
+      "name": "Penrose Finance",
+      "symbol": "PEN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/26105/small/6iWxdkG.png"
+    },
+    {
+      "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+      "chainId": 137,
+      "name": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13423/small/frax_share.png"
+    }
+  ]
+}
